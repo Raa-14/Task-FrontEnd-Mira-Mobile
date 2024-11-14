@@ -59,7 +59,7 @@ fun NavbarTopHalamanDetail(navController: NavController, modifier: Modifier = Mo
                         .padding(end = 5.dp)
                 )
                 Text(
-                    "Detail Makanan",
+                    "Detail Buku",
                     fontFamily = customFontFamily,
                     fontWeight = FontWeight.Medium,
                     fontSize = 20.sp,
