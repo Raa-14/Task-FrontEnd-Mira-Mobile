@@ -30,7 +30,7 @@ fun Koleksi(navController: NavController) {
                 .background(Color(android.graphics.Color.parseColor("#E5A186")))
         ) {
             NavbarTopKoleksi(navController)
-            NavbarBottom(navController)
+
 
         }
     }

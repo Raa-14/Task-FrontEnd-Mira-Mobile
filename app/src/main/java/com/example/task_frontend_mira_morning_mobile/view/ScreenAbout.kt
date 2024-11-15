@@ -31,7 +31,7 @@ fun About(navController: NavController) {
                 .background(Color(android.graphics.Color.parseColor("#E5A186")))
         ) {
             NavbarTopAbout(navController)
-            NavbarBottom(navController)
+
 
         }
     }

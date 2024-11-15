@@ -1,10 +1,14 @@
 package com.example.task_frontend_mira_morning_mobile
 
 object Routes {
-    var BerandaBody = "Beranda_Body"
-    var ListBuku = "List_Buku"
+    var BerandaBody = "BerandaBody"
+    var ListBuku = "ListBuku"
     var Koleksi = "Koleksi"
     var About = "About"
+    var ScreenBeranda = "ScreenBeranda"
+    var ScreenListBuku = "ScreenBuku"
+    var ScreenKoleksi = "ScreenKoleksi"
+    var ScreenAbout = "ScreenAbout"
     var Detail20Holistic = "Detail20Holistic"
     var DetailAngkot = "DetailAngkot"
     var DetailBuyaHamka = "DetailBuyaHamka"
